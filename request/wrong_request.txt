@@ -1,0 +1,4 @@
+GET /kiteen1.jpg HTTP/1.1
+Host localhost
+Modified: April 27th, 2018 02:11:48 GMT
+

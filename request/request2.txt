@@ -1,0 +1,5 @@
+GET /kitten1.jpg HTTP/1.1
+Host: localhost
+User-Agent: cse124-tester/1.0
+Connection: close
+

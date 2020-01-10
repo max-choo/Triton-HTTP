@@ -1,0 +1,5 @@
+GET /kiteen1.jpg HTTP/1.1
+User-Agent: cse124-tester/1.0
+Connection: close
+Modified: April 27th, 2018 02:11:48 GMT
+
